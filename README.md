@@ -4,9 +4,8 @@ This repository contains an advanced E-commerce dashboard and admin panel design
 # E-commerce Website Setup Guide
 
 # Clone the Repository Locally
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
-
+git clone https://github.com/vikramcs/Kargo_Full-ecommerce.git
+cd Kargo_Full-ecommerce
 
 
 
